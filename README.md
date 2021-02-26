@@ -3,6 +3,7 @@
 Aspirin Use and Prostate Cancer among African-American Men in the Southern Community Cohort Study
 
 Wei Tang, Jay H. Fowke, Lauren M. Hurwitz, Mark Steinwandel, William J. Blot and Stefan Ambs
+
 [PMID: 33293340](https://pubmed.ncbi.nlm.nih.gov/33293340/) DOI: 10.1158/1055-9965.EPI-19-0792
 
 Abstract
