@@ -1,8 +1,9 @@
-# SCCS_aspirin
+# SCCS Aspirin Prostate Cancer
 
 Aspirin Use and Prostate Cancer among African-American Men in the Southern Community Cohort Study
+
 Wei Tang, Jay H. Fowke, Lauren M. Hurwitz, Mark Steinwandel, William J. Blot and Stefan Ambs
-DOI: 10.1158/1055-9965.EPI-19-0792
+[PMID: 33293340](https://pubmed.ncbi.nlm.nih.gov/33293340/) DOI: 10.1158/1055-9965.EPI-19-0792
 
 Abstract
 Background: The association of aspirin use with prostate cancer has been investigated, but few studies included African-American men. Here, we analyzed the relationship of aspirin intake with prostate cancer risk and mortality among African-American men in the Southern Community Cohort Study (SCCS).
